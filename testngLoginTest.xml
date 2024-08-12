@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<!--<suite name="All Test Suite">-->
+
+   <suite name="All Test Suite"  thread-count="5" parallel="methods" >
+    <test verbose="2" preserve-order="true" name="C:/Users/Gopal Tidke/Desktop/SAmple/src/test/java/LoginTest">
+        <classes>
+            <class name="LoginTest.LoginTest">
+                <methods>
+                    <include name="VerifyThatTheLogoIsDisplayed"/>
+                    <include name="VerifyLoginSuccessfully"/>
+                    <include name="VerifyThatValidationMessageDisplayedAfterEnteringInvalidCredentials"/>
+<!--                    <include name="VerifyThatValidationMessageDisplayedAfterEnteringValidUsernameOnly"/>-->
+<!--                    <include name="VerifyThatValidationMessageDisplayedAfterEnteringValidPasswordOnly"/>-->
+<!--                    <include name="VerifyThatValidationMessageDisplayedWithoutEnteringUsernameAndPassword"/>-->
+<!--                    <include name="VerifyThatClearUsernameAndPasswordField"/>-->
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

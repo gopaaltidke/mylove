@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b802af6-dafd-4b40-ac9e-f110717612f9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="TestNG" name="ManagerDashboardTest.VerifyThatCreatedAccountAndDeleteThatAccount" />
+    </enabled-run-configurations>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2D9qBC7caGu5FUfOohqsLQ1lcXV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gopal Tidke/Desktop/SAmple/test-output&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gopal Tidke\Desktop\SAmple\test-output" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Gopal Tidke/Desktop/SAmple/testngCrossBrowser.xml">
+    <configuration name="C:/Users/Gopal Tidke/Desktop/SAmple/testngCrossBrowser.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SAmple" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testngCrossBrowser.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG">
+      <module name="SAmple" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testngLoginTest.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.internal.annotations.DefaultAnnotationTransformer" />
+        <listener class="org.testng.reporters.FailedReporter" />
+        <listener class="org.testng.reporters.SuiteHTMLReporter" />
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.TestHTMLReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.VerifyThatClearUsernameAndPasswordField" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SAmple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LoginTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LoginTest" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest.LoginTest" />
+      <option name="METHOD_NAME" value="VerifyThatClearUsernameAndPasswordField" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerDashboardTest.VerifyThatCreateNewAccount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SAmple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="managerDashboardTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="managerDashboardTest" />
+      <option name="MAIN_CLASS_NAME" value="managerDashboardTest.ManagerDashboardTest" />
+      <option name="METHOD_NAME" value="VerifyThatCreateNewAccount" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerDashboardTest.VerifyThatCreateNewCustomerAndDeleteCustomer" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SAmple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="managerDashboardTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="managerDashboardTest" />
+      <option name="MAIN_CLASS_NAME" value="managerDashboardTest.ManagerDashboardTest" />
+      <option name="METHOD_NAME" value="VerifyThatCreateNewCustomerAndDeleteCustomer" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerDashboardTest.VerifyThatCreatedAccountAndDeleteThatAccount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SAmple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="managerDashboardTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="managerDashboardTest" />
+      <option name="MAIN_CLASS_NAME" value="managerDashboardTest.ManagerDashboardTest" />
+      <option name="METHOD_NAME" value="VerifyThatCreatedAccountAndDeleteThatAccount" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.LoginTest" />
+      <item itemvalue="TestNG.LoginTest.VerifyThatClearUsernameAndPasswordField" />
+      <item itemvalue="TestNG.C:/Users/Gopal Tidke/Desktop/SAmple/testngCrossBrowser.xml" />
+      <item itemvalue="TestNG.ManagerDashboardTest.VerifyThatCreateNewAccount" />
+      <item itemvalue="TestNG.ManagerDashboardTest.VerifyThatCreateNewCustomerAndDeleteCustomer" />
+      <item itemvalue="TestNG.ManagerDashboardTest.VerifyThatCreatedAccountAndDeleteThatAccount" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Gopal Tidke/Desktop/SAmple/testngCrossBrowser.xml" />
+        <item itemvalue="TestNG.ManagerDashboardTest.VerifyThatCreatedAccountAndDeleteThatAccount" />
+        <item itemvalue="TestNG.ManagerDashboardTest.VerifyThatCreateNewCustomerAndDeleteCustomer" />
+        <item itemvalue="TestNG.LoginTest.VerifyThatClearUsernameAndPasswordField" />
+        <item itemvalue="TestNG.ManagerDashboardTest.VerifyThatCreateNewAccount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b802af6-dafd-4b40-ac9e-f110717612f9" name="Changes" comment="" />
+      <created>1660121511231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660121511231</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utilitiesTestNgListener/Base.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utilitiesTestNgListener/SceenshotTest.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utilities/WaitHelper.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utilities/WaitHelper.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/XYZ$LoginTest_VerifyLoginSuccessfully.ic" NAME="LoginTest.VerifyLoginSuccessfully Coverage Results" MODIFIED="1660297125888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LoginTest.*</FILTER>
+    </SUITE>
+  </component>
+</project>
